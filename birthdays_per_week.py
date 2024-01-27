@@ -46,5 +46,4 @@ for _ in range(365):
     users.append(user)
 
 if __name__ == "__main__":
-
     result = get_birthdays_per_week(users)
