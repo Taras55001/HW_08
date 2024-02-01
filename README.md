@@ -43,3 +43,7 @@ Feel free to modify and integrate this script into your projects.
 ## Author
 
 Taras55001
+
+## License
+
+MIT
